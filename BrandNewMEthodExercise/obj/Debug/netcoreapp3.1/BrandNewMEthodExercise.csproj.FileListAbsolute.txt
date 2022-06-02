@@ -1,0 +1,14 @@
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\bin\Debug\netcoreapp3.1\BrandNewMEthodExercise.exe
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\bin\Debug\netcoreapp3.1\BrandNewMEthodExercise.deps.json
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\bin\Debug\netcoreapp3.1\BrandNewMEthodExercise.runtimeconfig.json
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\bin\Debug\netcoreapp3.1\BrandNewMEthodExercise.runtimeconfig.dev.json
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\bin\Debug\netcoreapp3.1\BrandNewMEthodExercise.dll
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\bin\Debug\netcoreapp3.1\BrandNewMEthodExercise.pdb
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\obj\Debug\netcoreapp3.1\BrandNewMEthodExercise.csproj.AssemblyReference.cache
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\obj\Debug\netcoreapp3.1\BrandNewMEthodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\obj\Debug\netcoreapp3.1\BrandNewMEthodExercise.AssemblyInfoInputs.cache
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\obj\Debug\netcoreapp3.1\BrandNewMEthodExercise.AssemblyInfo.cs
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\obj\Debug\netcoreapp3.1\BrandNewMEthodExercise.csproj.CoreCompileInputs.cache
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\obj\Debug\netcoreapp3.1\BrandNewMEthodExercise.dll
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\obj\Debug\netcoreapp3.1\BrandNewMEthodExercise.pdb
+C:\Users\FeelGood\Desktop\repos\BrandNewMEthodExercise\BrandNewMEthodExercise\obj\Debug\netcoreapp3.1\BrandNewMEthodExercise.genruntimeconfig.cache
